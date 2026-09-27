@@ -10,6 +10,7 @@ namespace GitHub1
     {
         static void Main(string[] args)
         {
+            Console.Write("Моят първи проект в GitHub!"); // This is my first project in GitHub!
         }
     }
 }
